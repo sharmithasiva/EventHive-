@@ -1,0 +1,8 @@
+{
+  "name": "EventHive Pro",
+  "description": "A comprehensive, high-performance event management system for discovery, booking, and professional event organization.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
